@@ -1,6 +1,6 @@
 # CVPR2026 Poster Paper
 # On the Trade-offs of LLM-Augmented Multimodal Foundation Models for Clinical Image Classification 
-Zhaohui Liang, Niccolo Marini, Sivaramakrishnan Rajaraman, Zhiyun Xue, Sameer Antani
+Zhaohui Liang, Niccolo Marini, Sivaramakrishnan Rajaraman, Zhiyun Xue, Sameer Antani <p>
 National Library of Medicine | National Institutes of Health
 
 # Abstract
